@@ -16,6 +16,7 @@ The idea behind picking up the starbucks promotional dataset is to firstly under
 * A [juptyer notebook](https://github.com/kashyapbarua/starbucks-analysis/blob/main/Starbucks_Capstone_notebook.ipynb) containing the analysis, insights & modeling
 * [Readme](https://github.com/kashyapbarua/starbucks-analysis/edit/main/README.md) file explaining the project motivation and other contents
 * [Data](https://github.com/kashyapbarua/starbucks-analysis/tree/main/data) contains all the raw json files
+* [Medium Blog](https://medium.com/@kashyapbarua/starbucks-offer-click-prediction-model-comparison-958c777ce224) to read about the insights and results of the project
 
 ### Packages used in the dataset
 
